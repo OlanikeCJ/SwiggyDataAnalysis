@@ -36,7 +36,7 @@ This project addresses several key business questions, including:
 5. Which restaurant has the highest cost per person?
 
 ## Code
-For the rest of the code, check the SQL file => [View SQL Query]()
+For the rest of the code, check the SQL file => [Swiggy.sql](swiggy.sql)
 
 ```sql
 -- CREATE DATABASE SwiggyData;
