@@ -9,22 +9,21 @@ As a data analyst working for an online food delivery service, I am tasked with 
 
 ## About Data
 
-The dataset used in this project contains information on restaurants listed on Swiggy. Key attributes include:
+The dataset used in this project contains information on restaurants listed on Swiggy. This data contains 12 columns and 792 rows:
 
+![Alt text](https://github.com/OlanikeCJ/SwiggyDataAnalysis/blob/main/Untitled%20spreadsheet%20-%20Sheet1_page-0001.jpg
+)
 
-> * Restaurant Number: A unique identifier for each restaurant.
-> * Restaurant Name: The name of the restaurant.
-> * City: The city where the restaurant is located.
-> * Address: The address of the restaurant.
-> * Rating: The customer rating of the restaurant on a scale of 1 to 5.
-> * Cost per Person: The average cost for one person at the restaurant.
-> * Cuisine: The type of cuisine offered by the restaurant.
-> * Restaurant Link: The URL link to the restaurant’s page on Swiggy.
-> * Menu Category: The category of the menu item.
-> * Item: The specific menu item available at the restaurant.
-> * Price: The price of the menu item.
-> * Veg or Non-Veg: Indicates whether the menu item is vegetarian or non-vegetarian.
+## Approach Used
 
+1. **Data Wrangling**: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
+> * Build a database
+> * Create a table and insert the data.
+> * Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are filtered out.
+
+2. **Exploratory Data Analysis (EDA)**: Exploratory data analysis is done to answer the listed questions and aims of this project.
+
+3. **Conclusion**:
 
 ## Business Questions Answered
 
